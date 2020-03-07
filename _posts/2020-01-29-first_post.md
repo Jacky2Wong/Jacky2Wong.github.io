@@ -1,3 +1,4 @@
-# Hello World
+# The Master Theorem 
 
-This is my first post. 
+An article about the Master theorem and its recurrence relationships.
+
